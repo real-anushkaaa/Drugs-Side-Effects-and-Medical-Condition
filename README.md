@@ -5,8 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25.0-red.svg)](https://streamlit.io/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.0-orange.svg)](https://scikit-learn.org/)
-[![Internship](https://img.shields.io/badge/Internship-Unified%20Mentor-purple.svg)](https://unifiedmentor.com/)
-[![License](https://img.shields.io/badge/License-Educational-green.svg)](#license)
 
 ## 🚀 Project Summary
 
@@ -18,8 +16,6 @@ Drugs, Side Effects and Medical Condition is a comprehensive data science platfo
 ![image](https://github.com/user-attachments/assets/7b6ebe11-7488-4fac-981f-1c184fadf57d)
 ![image](https://github.com/user-attachments/assets/fb5c53a5-3e5e-49a3-9dbf-03821550d826)
 ![image](https://github.com/user-attachments/assets/8139ad0f-6161-48d1-b0e0-9c41733254c5)
-
-
 
 ### ✨ Key Highlights
 - 📊 **11MB+ Drug Dataset** - Comprehensive analysis of thousands of drug-condition pairs
